@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # About ME
-Hello World!!
 
 ⚙️ My favourite tools: PHP and Laravel.
 
