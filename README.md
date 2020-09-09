@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# About ME
+Hello World!!
+
+⚙️ My favourite tools: PHP and Laravel.
+
+🌱 I’m currently learning Laravel and React JS.
+
+💬 Ask me about PHP, HTML, CSS and JS
+
 <!--
 **adailtonmoura/adailtonmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
