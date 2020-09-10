@@ -1,11 +1,8 @@
 
-# About ME
+# Hey I'm Adailton Moura!
 
-⚙️ My favourite tools: PHP and Laravel.
 
-🌱 I’m currently learning Laravel and React JS.
-
-💬 Ask me about PHP, HTML, CSS and JS
+    Computer student for software development at the Federal Institute of Science and Technology of Sergipe
 
 
 <p align="center">
