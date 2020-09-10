@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # About ME
 
@@ -8,17 +7,13 @@
 
 💬 Ask me about PHP, HTML, CSS and JS
 
-<!--
-**adailtonmoura/adailtonmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ 
+  <a href="https://github.com/julianaizac">
+    <img src="https://github-readme-stats.vercel.app/api?username=adailtonmoura&show_icons=true&include_all_commits=true&count_private=true" alt="adailtonmoura"/>
+  </a>
+  <a href="https://github.com/julianaizac">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmoura&layout=compact"/>
+  </a>
+</p>
