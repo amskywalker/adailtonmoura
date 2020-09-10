@@ -1,9 +1,9 @@
 
-# Hey I'm Adailton Moura!
-
-
-    Computer student for software development at the Federal Institute of Science and Technology of Sergipe
-
+# Hey I'm Adailton Moura! :thumbsup:	
+    
+   :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe
+   
+   :green_heart: Passionate about technology
 
 <p align="center">
     <a href="https://github.com/adailtonmoura">
