@@ -1,15 +1,21 @@
 
-### Hey I'm Adailton Moura! :thumbsup:	
+### Hey I'm Adailton Moura! :thumbsup:	    
+
     
-   :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe
+   :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe 
    
    :green_heart: Passionate about technology
-   
+
 ### If you want to exchange knowledge
 
-    [Twitter](https://twitter.com/adailtonmoura_) <br>
-    [Instagram](https://www.instagram.com/adailtonmoura_/) <br>
-    [LinkedIn](https://www.linkedin.com/in/adailton-moura/) <br>
+   [Twitter](https://twitter.com/adailtonmoura_) 
+   
+   [LinkedIn](https://www.linkedin.com/in/adailton-moura/) 
+   
+   [Instagram](https://www.instagram.com/adailtonmoura_/) 
+
+    
+### Statistics
 
 <p align="center">
     <a href="https://github.com/adailtonmoura">
