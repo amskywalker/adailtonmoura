@@ -6,16 +6,16 @@
    
    :green_heart: Passionate about technology
 
-### If you want to exchange knowledge
+### If you want to exchange knowledge:
 
-   [Twitter](https://twitter.com/adailtonmoura_) 
-   
-   [LinkedIn](https://www.linkedin.com/in/adailton-moura/) 
-   
-   [Instagram](https://www.instagram.com/adailtonmoura_/) 
+[Twitter](https://twitter.com/adailtonmoura_) 
+
+[LinkedIn](https://www.linkedin.com/in/adailton-moura/) 
+
+[Instagram](https://www.instagram.com/adailtonmoura_/) 
 
     
-### Statistics
+### Statistics:
 
 <p align="center">
     <a href="https://github.com/adailtonmoura">
