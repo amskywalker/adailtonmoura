@@ -33,10 +33,10 @@
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=QueuesLaravel7&theme=vue" alt="Queues Laravel 7 Repo">
      </a>
      <a href="https://github.com/adailtonmoura/RemoteLearningReact">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=Chat-PHP&theme=vue" alt="Chat PHP Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=RemoteLearningReact&theme=vue" alt="RemoteLearningReact Repo">
      </a>
      <a href="https://github.com/adailtonmoura/https://github.com/adailtonmoura/DistanceLearning">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=forum-for-readers&theme=vue" alt="My portfolio Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=DistanceLearning&theme=vue" alt="DistanceLearning Repo">
      </a>
      <a href="https://github.com/adailtonmoura/adailtonmoura.github.io">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=adailtonmoura.github.io&theme=vue" alt="My portfolio Repo">
