@@ -32,13 +32,14 @@
      <a href="https://github.com/adailtonmoura/QueuesLaravel7">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=QueuesLaravel7&theme=vue" alt="Queues Laravel 7 Repo">
      </a>
-     <a href="https://github.com/adailtonmoura/Chat-PHP">
+     <a href="https://github.com/adailtonmoura/RemoteLearningReact">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=Chat-PHP&theme=vue" alt="Chat PHP Repo">
+     </a>
+     <a href="https://github.com/adailtonmoura/https://github.com/adailtonmoura/DistanceLearning">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=forum-for-readers&theme=vue" alt="My portfolio Repo">
      </a>
      <a href="https://github.com/adailtonmoura/adailtonmoura.github.io">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=adailtonmoura.github.io&theme=vue" alt="My portfolio Repo">
      </a>
- <a href="https://github.com/adailtonmoura/forum-for-readers">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=forum-for-readers&theme=vue" alt="My portfolio Repo">
-     </a>
+
 </p>
