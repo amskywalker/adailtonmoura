@@ -35,7 +35,7 @@
      <a href="https://github.com/adailtonmoura/Happy">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=Happy&theme=vue" alt="Gym Repo">
      </a>
-     <a href="https://github.com/adailtonmoura/CommitmentsWeb">
+     <a target="_blank" href="https://github.com/adailtonmoura/CommitmentsWeb">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=CommitmentsWeb&theme=vue" alt="Commitments Repo">
      </a>
      <a href="https://github.com/adailtonmoura/adailtonmoura.github.io">
