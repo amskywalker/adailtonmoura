@@ -29,7 +29,7 @@
       <a href="https://github.com/adailtonmoura/RemoteLearningReact">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=RemoteLearningReact&theme=vue" alt="RemoteLearningReact Repo">
      </a>
-      <a href="https://github.com/adailtonmoura/https://github.com/adailtonmoura/DistanceLearning">
+      <a href="https://github.com/adailtonmoura/DistanceLearning">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=DistanceLearning&theme=vue" alt="DistanceLearning Repo">
      </a>
      <a href="https://github.com/adailtonmoura/Happy">
