@@ -4,6 +4,8 @@
     
    :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe 
    
+   :rocket: Working in [Agily Tecnologia](https://www.agily.com.br/)
+   
    :green_heart: Passionate about technology
 
 ### If you want to exchange knowledge:
