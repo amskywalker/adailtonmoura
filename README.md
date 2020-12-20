@@ -26,22 +26,22 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmoura&layout=compact&theme=vue"/>
      </a>
       <a href="https://github.com/adailtonmoura/QueuesLaravel7">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=QueuesLaravel7&theme=vue" alt="Queues Laravel 7 Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=QueuesLaravel7&theme=dark" alt="Queues Laravel 7 Repo">
      </a>
       <a href="https://github.com/adailtonmoura/RemoteLearningReact">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=RemoteLearningReact&theme=vue" alt="RemoteLearningReact Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=RemoteLearningReact&theme=dark" alt="RemoteLearningReact Repo">
      </a>
       <a href="https://github.com/adailtonmoura/DistanceLearning">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=DistanceLearning&theme=vue" alt="DistanceLearning Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=DistanceLearning&theme=dark" alt="DistanceLearning Repo">
      </a>
      <a href="https://github.com/adailtonmoura/Happy">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=Happy&theme=vue" alt="Gym Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=Happy&theme=dark" alt="Gym Repo">
      </a>
      <a target="_blank" href="https://github.com/adailtonmoura/CommitmentsWeb">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=CommitmentsWeb&theme=vue" alt="Commitments Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=CommitmentsWeb&theme=dark" alt="Commitments Repo">
      </a>
      <a href="https://github.com/adailtonmoura/adailtonmoura.github.io">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=adailtonmoura.github.io&theme=vue" alt="My portfolio Repo">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=adailtonmoura.github.io&theme=dark" alt="My portfolio Repo">
      </a>
 
 </p>
