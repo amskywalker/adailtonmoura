@@ -20,10 +20,10 @@
 
 <p align="center">
     <a href="https://github.com/adailtonmoura">
-        <img src="https://github-readme-stats.vercel.app/api?username=adailtonmoura&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="adailtonmoura"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=adailtonmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="adailtonmoura"/>
     </a>
     <a href="https://github.com/adailtonmoura">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmoura&layout=compact&theme=vue"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmoura&layout=compact&theme=dark"/>
      </a>
       <a href="https://github.com/adailtonmoura/QueuesLaravel7">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=adailtonmoura&amp;repo=QueuesLaravel7&theme=dark" alt="Queues Laravel 7 Repo">
