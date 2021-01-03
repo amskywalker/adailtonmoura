@@ -1,6 +1,7 @@
 
-### Hey I'm Adailton Moura! :thumbsup:	    
-
+### About me	    
+    
+   <p align="center"><img src="https://github.com/adailtonmoura/adailtonmoura/blob/master/Hey%20I'm%20Adailton%20Moura.gif"/></p>
     
    :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe 
    
