@@ -3,8 +3,10 @@
     
    <p align="center"><img src="https://github.com/adailtonmoura/adailtonmoura/blob/master/Hey%20I'm%20Adailton%20Moura.gif"/></p>
     
-   :computer: Computer student for software development at the Federal Institute of Science and Technology of Sergipe 
-   
+   :blue_heart: Computer technician for software development at the Federal Institute of Science and Technology of Sergipe 
+
+   :computer: Computer science at the Federal University of Sergipe 
+
    :rocket: Working in [Agily Tecnologia](https://www.agily.com.br/)
    
    :green_heart: Passionate about technology
