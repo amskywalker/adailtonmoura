@@ -2,8 +2,6 @@
 
 ### 📍 Sergipe, Brazil
 
-### 👜 Junior Software Engineer in [Agily Tecnologia](https://www.agily.com.br/)
-
 ### 💻 Laravel and Vue
 
 ## Stats
