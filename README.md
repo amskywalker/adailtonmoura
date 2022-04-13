@@ -4,13 +4,6 @@
 
 ### 💻 Laravel and Vue
 
-## Stats
-<div>
-  <a href="https://github.com/amskywalker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amskywalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amskywalker&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
 ## Contact
 
 <p align="left">
@@ -38,8 +31,6 @@
 <p align="left"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-    <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" />
 </p>
 
 ### Front end
