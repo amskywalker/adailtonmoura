@@ -10,17 +10,8 @@
     <a href="mailto:contatoadailtonmoura@gmail.com/" target="_blank">
         <img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adailtonmoura" />
     </a>
-    <a href="https://www.instagram.com/adailtonmoura_/" target="_blank">
-        <img src="https://img.shields.io/badge/adailtonmoura_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adailtonmoura_" />
-    </a>
-    <a href="https://www.twitter.com/adailtonmoura_/" target="_blank">
-        <img src="https://img.shields.io/badge/adailtonmoura_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adailtonmoura_" />
-    </a>
     <a href="https://www.linkedin.com/in/adailton-moura/" target="_blank">
         <img src="https://img.shields.io/badge/Adailton Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adailton-moura" />
-    </a>
-    <a href="https://www.discord.com/" target="_blank">
-        <img src="https://img.shields.io/badge/skywalkerdev 9896-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="adailton dev" />
     </a>
 </p>
 
