@@ -2,7 +2,7 @@
 
 ### 📍 Sergipe, Brazil
 
-### 💻 Laravel and Vue
+### 💻 Java, Spring, PHP, Laravel
 
 ## Contact
 
@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" />
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />	
 </p>
     
 ### Databases
