@@ -55,6 +55,37 @@ _Linguagens & Tecnologias_: `PHP`, `Laravel`, `JavaScript`, `Vue.js`, `jQuery`
 
 Para mais detalhes, me encontre no [LinkedIn](https://www.linkedin.com/in/adailton-moura/).
 
+## Projetos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AdailtonUFS/ufsmonitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdailtonUFS&repo=ufsmonitor" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amskywalker/fpx_bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=fpx_bot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/amskywalker/grafos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amskywalker&repo=grafos" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amskywalker/AcSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdailtonIFS&repo=AcSystem" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🎓 Educação
 
 - **Bacharelado em Ciência da Computação**  
