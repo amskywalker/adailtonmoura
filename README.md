@@ -1,3 +1,6 @@
+> [!TIP]
+> If do you prefer english version click [here](https://github.com/amskywalker/amskywalker/tree/master/english_version)
+
 ## Olá sou o Adailton!
 
 Sou um entusiasta da tecnologia que começou sua jornada no desenvolvimento de sistemas em 2017, estudando HTML, CSS, JavaScript e PHP. Em 2018, ingressei no Instituto Federal de Ciência e Tecnologia de Sergipe (IFS) no curso de Informática, onde adquiri uma base sólida em algoritmos, orientação a objetos com Java, banco de dados com MySQL e noções de engenharia de software.
